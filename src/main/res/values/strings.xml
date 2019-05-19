@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPSApp</string>
+    <string name="abilitato">Abilitato</string>
+    <string name="latidudine">Latidudine</string>
+    <string name="longitudine">Longitudine</string>
+    <string name="localit">Località</string>
+    <string name="data_e_ora">Data e Ora</string>
+    <string name="title_location_permission">Permessi GPS</string>
+    <string name="text_location_permissione">GPSApp ha bisogno dei permesssi per poter funzionare</string>
+    <string name="ok">ok</string>
+</resources>
